@@ -1,0 +1,14 @@
+{
+  "name": "Google News Timezone Adjuster",
+  "version": "0.9.2",
+  "manifest_version": 2,
+  "description": "Automatically adjust Google News game times according to your timezone.",
+  "icons": { "16": "icon16.png", "48": "icon48.png", "128": "icon.png" },
+  "content_scripts": [{
+    "js": ["inject.js"],
+    "matches": ["http://news.google.com/*", "https://news.google.com/*",
+                "https://news.google.com/"
+    ],
+    "run_at": "document_start"
+  }]
+}
