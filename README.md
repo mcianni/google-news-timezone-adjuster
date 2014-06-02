@@ -1,4 +1,5 @@
-##Google News Timezone Adjuster is a Chrome Extension (available [on the chrome web store](https://chrome.google.com/webstore/detail/google-news-timezone-adju/idpbkphamfbajncmgjecicbckhpmdgfi)).
+###Google News Timezone Adjuster is a Chrome Extension
+(available [on the chrome web store](https://chrome.google.com/webstore/detail/google-news-timezone-adju/idpbkphamfbajncmgjecicbckhpmdgfi))
 
 The extension does one thing- it adjusts the game times on news.google.com to match your system's timezone.
 
